@@ -1,18 +1,19 @@
-![TES V : Skyrim - Enhanced Edition](https://i.postimg.cc/pVCGt6gB/Couverture.png)
+![TES V : Skyrim - Secunda Edition](https://i.postimg.cc/pVCGt6gB/Couverture.png)
 
 
 
 # Preambule
 
-"TES V: Skyrim - Enhanced Edition" is a personal performance-friendly medium-sized Modlist that aims to offer an enhancement of the original graphics and gameplay of Skyrim. Here is the core motivation of this modlist : what we believed to be Skyrim back in 2011, our memories embellished by the nostalgia of this game, are embodied in this Modlist. 
+"TES V : Skyrim - Secunda Edition" is a personal performance-friendly medium-sized Modlist that aims to offer an enhancement of the original graphics and gameplay of Skyrim. Here is the core motivation of this modlist : what we believed to be Skyrim back in 2011, our memories embellished by the nostalgia of this game, are embodied in this Modlist. 
 
 Utilizing the power of Community Shaders, this Modlist offers enhanced visuals true to Skyrim: Grass Lighting, Grass Collision, Tree LOD Lighting, Screen-Space Shadow, and (Vanilla) HDR. Enhanced visuals and gameplay are to be expected in the same vein as the original Skyrim. Nothing more, nothing less, only Skyrim.
 
-"TES V: Skyrim - Enhanced Edition" version 1.0.0 enhances the potential present in Skyrim: landscapes, architectures, character appearances, weapons and armors. Future Updates will add more such as immersion mods and unofficial DLC-sized Mods depending on the feedbacks. 
+"TES V : Skyrim - Secunda Edition" version 1.0.0 enhances the potential present in Skyrim: landscapes, architectures, character appearances, weapons and armors. Future Updates will add more such as immersion mods and unofficial DLC-sized Mods depending on the feedbacks. 
 
+
+
+# Requierements : 
 _Requires AE Content, Skyrim 1.6640_
-
-# Performance : 
 
 My specs are as follows: 
 * i5-11400F, RTX 3060, 16GB RAM, 512GB SSD. 
@@ -36,7 +37,7 @@ If you have my specs or better expect to run the game at 2k/4k 60fps without any
 
 # Pre-installation 
 
-Prior to installing TES V: Skyrim - Enhanced Edition, please complete the following steps.
+Prior to installing "TES V : Skyrim - Secunda Edition", please complete the following steps.
 
 * Install Visual C++ x64 & .Net Runtime v5 desktop x64.
 * Change Skyrim so it does not automatically update.
@@ -51,13 +52,13 @@ Prior to installing TES V: Skyrim - Enhanced Edition, please complete the follow
 
 Once you have completed pre-installation, download the latest version of Wabbajack and place it in a folder such as C:\Games\Wabbajack. Do not place it in program files, on your desktop or in your downloads folder. I recommend placing it on an SSD as it will work quicker on there.
 
-## Downloading and Installing TES V: Skyrim - Enhanced Edition
+## Downloading and Installing TES V : Skyrim - Secunda Edition
 
-Downloading and installing TES V: Skyrim - Enhanced Edition can take a while depending on your internet connection and computer. To install TES V: Skyrim - Enhanced Edition, complete the following steps.
+Downloading and installing TES V : Skyrim - Secunda Edition can take a while depending on your internet connection and computer. To install TES V : Skyrim - Secunda Edition, complete the following steps :
 
 * Open Wabbajack and click on browse modlists, ensure that Unofficial Lists is checked.
-* Press the download button on TES V: Skyrim - Enhanced Edition and wait for it to download.
-* Set the installation folder to be somewhere like C:\Games\TES V: Skyrim - Enhanced Edition. Do not install it to your desktop or downloads folder.
+* Press the download button on TES V : Skyrim - Secunda Edition and wait for it to download.
+* Set the installation folder to be somewhere like C:\Games\TES V : Skyrim - Secunda Edition. Do not install it to your desktop or downloads folder.
 * The download location does not need to be on a SSD but it makes installing a bit faster
 * Press the play button to begin.
 * Go and pet your nearest fluffy animal whilst Wabbajack does its thing. Alternatively read through this readme again.
@@ -65,7 +66,7 @@ Downloading and installing TES V: Skyrim - Enhanced Edition can take a while dep
 
 # Note 
 
-This modlist is fully customizable and should serve as a base for a community shared modlist. it is open to anyone who wants to build on it as long as you respect its core motivation : Skyrim as you "remember" it. It is an invitation to build a modded Skyrim true to itself.
+This modlist is fully customizable and should serve as a base for a community shared modlist. it is open to anyone who wants to build on it as long as you respect its core motivation : Skyrim as you "remember" it. It is an invitation to build a modded Skyrim true to itself, and without any performance loss !
 
 A discord server will be available (Very) soon.
 
