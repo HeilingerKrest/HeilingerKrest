@@ -12,7 +12,7 @@ Utilizing the power of Community Shaders, this Modlist offers enhanced visuals t
 
 
 
-# Requierements : 
+# Requirements : 
 _Requires AE Content, Skyrim 1.6640_
 
 My specs are as follows: 
